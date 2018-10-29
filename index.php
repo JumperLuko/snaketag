@@ -14,7 +14,7 @@
     <div class="content fcol-12 h4 wrap centerH" style="padding:0;" title="Escolha um serviço de qualidade!">
         <p class="fcol-12 h1 center centerText" style="padding:2vw 5vw;font-family:'Top-Secret';">Entenda nossos produtos.</p>
         <div class="fcol-m-6 fcol-g-4 product">
-            <div style="background: url('img/break-background.svg'),rgb(255, 93, 93);background-blend-mode: lighten; visibility: visible; animation-delay: 1s;" class="pulse wow" data-wow-delay="1s">
+            <div style="background: url('img/break-background.svg'),rgb(255, 93, 93);background-blend-mode: lighten;" class="" data-wow-delay="1s">
                 <p class="fcol-12 centerH centerText h2">Página Panfleto</p>
                 <p class="centerText">Uma página web em formato de planfleto.</p>
                 <br>
@@ -28,7 +28,7 @@
             </div>
         </div>
         <div class="fcol-m-6 fcol-g-4 product">
-            <div style="background: url('img/break-background.svg'),rgb(0, 170, 220);background-blend-mode: lighten; visibility: visible; animation-delay: 1s; animation-name: pulse;" class="pulse wow" data-wow-delay="1s">
+            <div style="background: url('img/break-background.svg'),rgb(0, 170, 220);background-blend-mode: lighten;" class="" data-wow-delay="1s">
                 <p class="fcol-12 centerH centerText h2">Página Web (WordPress)</p>
                 <p class="centerH centerText">Construção da interface do site, acoplado ao sistema do WordPress.</p>
                 <br>
@@ -43,7 +43,7 @@
             </div>
         </div>
         <div class="fcol-m-6 fcol-g-4 product">
-            <div class="pulse wow" data-wow-delay="1s" style="background: url('img/break-background.svg'),#00b128;background-blend-mode: lighten;visibility: visible; animation-delay: 1s; animation-name: pulse;">
+            <div class="" data-wow-delay="1s" style="background: url('img/break-background.svg'),#00b128;background-blend-mode: lighten;">
                 <p class="fcol-12 centerH centerText h2" title="Página Web">Página Web</p>
                 <p class="centerH centerText">Construção da interface do site.</p>
                 <br>

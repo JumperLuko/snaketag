@@ -17,6 +17,7 @@
 body{
      word-break: break-word;
      font-family: "Raleway-SemiBold";
+     overflow-x: hidden;
 }
 ::-moz-selection{background: #cbdabe;color:#000000;}
 ::selection {background: #cbdabe;color:#000000;}
@@ -69,6 +70,20 @@ header > nav > a{
     }
 }
 
+@keyframes zoomView {
+    0% {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+    25% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1);
+        transform: scale3d(1.2, 1.2, 1.2);
+    }
+    100% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1);
+        transform: scale3d(1.1, 1.1, 1.1);
+    }
+}
 .product{
     color: #000000;
     padding:0 1%;
@@ -77,6 +92,11 @@ header > nav > a{
 }.product > div{
     width: 100%;
     background-color:#00b128;
+}.product > div:hover{
+    animation-name:zoomView;
+    animation-duration:1s;
+    animation-fill-mode:both;
+    z-index: 5;
 }
 .product > div > p{
     padding: 0 10%;

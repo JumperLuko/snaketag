@@ -60,8 +60,8 @@
     </div>
     <footer class="fcol-12 startF">
         <div class="fcol-12 flex aroundH" style="background-color:#232323;color:#ffffff;padding:40px 20px;">
-            <a href="https://www.facebook.com/pg/SnakeTag-213624329498536" target="_blank" style="color:#ffffff;">Facebook</a>
-            <a href="mailto:snaketag.contato@gmail.com" target="_blank" style="color:#ffffff;">Email</a>
+            <a href="https://www.facebook.com/pg/SnakeTag-213624329498536" target="_blank" style="color:#ffffff;" title="Facebook"><img src="img/facebook.svg" style="height: 30px;width:154px;" alt="Facebook"></a>
+            <a href="mailto:snaketag.contato@gmail.com" target="_blank" style="color:#ffffff;" title="Email"><img src="img/email.svg" style="height: 30px;width:46px;" alt="Email"></a></a>
         </div>
     </footer>
 </body>

@@ -1,11 +1,11 @@
-<html>
+<html lang="pt-br">
 <?php require('rdd/head.php') ?>
-    <div class="fcol-12 down" style="height: 100vh;background:url('img/Inkscape-tecnologia.svg') center left;background-size:cover;"><img src="img/Inkscape-tecnologia-border.svg" width="100%"/></div>
+    <div class="fcol-12 down" style="height: 100vh;background:url('img/Inkscape-tecnologia.svg') center left;background-size:cover;"><img src="img/Inkscape-tecnologia-border.svg" width="100%" alt=""/></div>
     <div class="vcol-12 gcol-2 allHeight centerV2" style="background:url('img/softGreen-background.svg') center center / cover;">
         <span class="h1 centerText" style="font-family:'KING';padding:50px;">Amplie a visão de sua empresa com site criativo que é.</span>
         <div class="h3" style="display:grid;grid-template-rows: 250px auto auto auto;height:100%;min-height:500px;">
             <span class="flex center h3" style="overflow-x:hidden; "><div class="flex centerA responsive_exemple"><div>Res</div><div>pon</div><div>sivo</div></div></span>
-            <span class="flex center">SEO<img class="search_exemple" src="img/search.svg" height="50px"/></span>
+            <span class="flex center">SEO<img class="search_exemple" src="img/search.svg" height="50px" alt="search"/></span>
             <span class="flex center">Moderno</span>
             <span class="flex center animations_exemple"><div class="bounce animated infinite">Anima</div><div class="slideOutUp animated infinite">do</div></span>
         </div>

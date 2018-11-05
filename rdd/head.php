@@ -23,7 +23,7 @@
 </head>
 <body class="inlineF">
     <header class="fcol-12 centerV betweenH wrap">
-        <a class="fcol-6" href="."><img src="img/snaketag-titulo3.svg" height="50px"/></a>
+        <a class="fcol-6" href="./"><img src="img/snaketag-titulo3.svg" height="50px" alt="Snaketag"></a>
         <nav class="inlineF fcol-6">
             <a class="fcol-ss-4 center" href="sobre.php#sobre" id="sobre">Sobre</a>
             <a class="fcol-ss-4 center" href="portifolio.php#portifolio" id="portifolio">Portifolio</a>

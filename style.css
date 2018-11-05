@@ -16,7 +16,7 @@
 }
 body{
      word-break: break-word;
-     font-family: "Raleway-SemiBold";
+     font-family: "Raleway-SemiBold",Arial;
      overflow-x: hidden;
 }
 ::-moz-selection{background: #cbdabe;color:#000000;}

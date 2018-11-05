@@ -58,10 +58,14 @@
             </div>
         </div>
     </div>
-    <footer class="fcol-12 startF">
-        <div class="fcol-12 flex aroundH" style="background-color:#232323;color:#ffffff;padding:40px 20px;">
-            <a href="https://www.facebook.com/pg/SnakeTag-213624329498536" target="_blank" style="color:#ffffff;" title="Facebook"><img src="img/facebook.svg" style="height: 30px;width:154px;" alt="Facebook"></a>
-            <a href="mailto:snaketag.contato@gmail.com" target="_blank" style="color:#ffffff;" title="Email"><img src="img/email.svg" style="height: 30px;width:46px;" alt="Email"></a></a>
+    <footer class="fcol-12 flex aroundH" style="background-color:#232323;color:#ffffff;">
+        <div class="flex column center">
+            <a href="https://www.facebook.com/pg/SnakeTag-213624329498536" target="_blank" title="Facebook" style="padding:40px 20px;"><img src="img/facebook.svg" style="height: 30px;width:154px;" alt="Facebook"></a>
+            <a href="https://t.me/Jumper_Luko" target="_blank" title="Telegram" style="padding:40px 20px;"><img src="img/telegram.svg" style="height: 50px;" alt="Telegram"></a>
+        </div>
+        <div class="flex column center">
+        <a href="mailto:snaketag.contato@gmail.com" target="_blank" title="Email" style="padding:40px 20px;"><img src="img/email.svg" style="height: 30px;width:46px;" alt="Email"></a></a>
+            <a href="https://api.whatsapp.com/send?phone=554796534397&text=Ol%C3%A1,%20Estava%20visitando%20o%20site%20snakeag.store.%20Est%C3%A1%20dispon%C3%ADvel?" target="_blank" title="Whatsapp" style="padding:40px 20px;"><img src="img/whatsapp.svg" style="height: 50px;" alt="Whatsapp"></a></a>
         </div>
     </footer>
 </body>

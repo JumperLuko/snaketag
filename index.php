@@ -65,7 +65,7 @@
         </div>
         <div class="flex column center">
         <a href="mailto:snaketag.contato@gmail.com" target="_blank" title="Email" style="padding:40px 20px;"><img src="img/email.svg" style="height: 30px;width:46px;" alt="Email"></a></a>
-            <a href="https://api.whatsapp.com/send?phone=554796534397&text=Ol%C3%A1,%20Estava%20visitando%20o%20site%20snakeag.store.%20Est%C3%A1%20dispon%C3%ADvel?" target="_blank" title="Whatsapp" style="padding:40px 20px;"><img src="img/whatsapp.svg" style="height: 50px;" alt="Whatsapp"></a></a>
+            <a href="https://api.whatsapp.com/send?phone=5547997058876&text=Ol%C3%A1,%20Estava%20visitando%20o%20site%20snakeag.store.%20Est%C3%A1%20dispon%C3%ADvel?" target="_blank" title="Whatsapp" style="padding:40px 20px;"><img src="img/whatsapp.svg" style="height: 50px;" alt="Whatsapp"></a></a>
         </div>
     </footer>
 </body>

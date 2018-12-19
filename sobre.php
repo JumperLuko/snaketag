@@ -9,8 +9,8 @@
             <div class="fcol-12 centerH" style="font-family:Lato;font-size:15px;color:gray;">Web Design / Web developer</div>
         </div>
         <div>
-            <div class="fcol-12 centerH"><img src="./img/A¿¿a (mt curioso vc)"  style="border-radius: 100%;filter: grayscale(100%);height:250px;width:250px;"></div>
-            <div class="fcol-12 centerH" style="font-family:Lato;font-size:20px;">¿¿¿¿ ¿¿¿¿¿¿¿</div>
+            <div class="fcol-12 centerH"><img src="./img/Anna.jpg"  style="border-radius: 100%;filter: grayscale(100%);height:250px;width:250px;"></div>
+            <div class="fcol-12 centerH" style="font-family:Lato;font-size:20px;">Anna Arishia</div>
             <div class="fcol-12 centerH" style="font-family:Lato;font-size:15px;color:gray;">Contato com o cliente</div>
         </div>
     </div>

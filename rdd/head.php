@@ -21,7 +21,7 @@
     <meta name="revisit-after" content="7 days">
     <meta name="rating" content="general">
 </head>
-<body class="inlineF">
+<body class="inlineFW">
     <header class="fcol-12 centerV betweenH wrap">
         <a class="fcol-6" href="./"><img src="img/snaketag-titulo3.svg" height="50px" alt="Snaketag"></a>
         <nav class="inlineF fcol-6">

@@ -25,9 +25,7 @@ body{
 .allHeight-min{min-height:calc(100% - 140px);}
 .allHeight2{height:calc(100%);}
 @media only screen and (min-width: 768px) {
-    header{
-    position: fixed;
-    }
+    header{position: fixed;}
     .allHeight,.allHeight-min{min-height:calc(100% - 70px);}
     .allHeight2{height:calc(100% - 70px);}
 }
@@ -47,22 +45,28 @@ header{
 header > a > img{
     margin:10px 20px;
 }
+@keyframes lineMenu {0% {background-position-x: 0%;}}
 header > nav > a{
     padding: 0 20px;
     height: 70px;
     display: flex;
     align-items: center;
-    border-top: solid 6px #ffffff00;
+    padding-top: 6px;
     border-bottom: solid 6px #ffffff00;
     text-decoration: none;
     color:#000000;
 }header > nav > a:hover{
-    /* background: #6bb16d; */
     transition: all 0.2s linear;
-    border-bottom: solid 6px #6bb16d;
+    /* border-bottom: solid 6px #6bb16d; */
+    background: url("img/border.svg");
+    background-size: 400% 70px;
+    background-position-x: 100%;
+    
+    animation: lineMenu 1s;
 }header > nav > a:target{
     background: #6bb16d;
 }
+
 @media only screen and (min-width: 768px) {
     .headerSpace{
         width: 100%;

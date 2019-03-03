@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-br">
 <?php require('rdd/head.php') ?>
     <div class="fcol-12 down" style="height: 100vh;background:url('img/Inkscape-tecnologia.svg') center left;background-size:cover;overflow:hidden;"><img src="img/Inkscape-tecnologia-border.svg" width="100%" alt=""/></div>
@@ -11,7 +12,7 @@
         </div>
         <span class="h2 centerText your-business" style="font-family:'Pink-Rocket';padding:50px;">E o mais importante, desenvolvido pensando no seu negócio!</span>
     </div>
-    <div class="content fcol-12 h4 wrap centerH" style="padding:0;" title="Escolha um serviço de qualidade!">
+    <div class="content fcol-12 h4 wrap centerH" style="padding:0;" title="Escolha um serviço de qualidade!" role="main">
         <p class="fcol-12 h1 center centerText" style="padding:2vw 5vw;font-family:'Top-Secret';">Entenda nossos produtos.</p>
         <div class="fcol-m-6 fcol-g-4 product">
             <div style="background: url('img/break-background.svg'),#B16D6B;background-blend-mode: lighten;" class="" data-wow-delay="1s">

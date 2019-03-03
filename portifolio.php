@@ -8,7 +8,7 @@
         <div class="flex center wrap">
             <p class="vcol-12">Marecia Náutica</p>
             <p class="vcol-12">Coletes salva-vidas</p>
-            <p class="vcol-12"><a href="http://marecianautica.com.br" target="_blank">http://marecianautica.com.br</a></p>
+            <p class="vcol-12"><a href="http://marecianautica.com.br" target="_blank">https://marecianautica.com.br</a></p>
         </div>
         <div></div>
     </div>

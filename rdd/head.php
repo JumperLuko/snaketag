@@ -4,8 +4,8 @@
     <link rel="stylesheet" type="text/css" href="css-js/animate.min.css">
     <link rel="stylesheet" type="text/css" href="responsive_flex-grid.css">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <script type="text/javascript" src="css-js/wow.min.js"></script>
-    <script>new WOW().init();</script>
+    <!-- <script type="text/javascript" src="css-js/wow.min.js"></script>
+    <script>new WOW().init();</script> -->
 
     <link rel="manifest" href="manifest.json">
     <meta charset="UTF-8">

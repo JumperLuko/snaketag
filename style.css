@@ -18,16 +18,17 @@ body{
      word-break: break-word;
      font-family: "Raleway-SemiBold",Arial;
      overflow-x: hidden;
+     min-height: 100vh;
 }
 ::-moz-selection{background: #cbdabe;color:#000000;}
 ::selection {background: #cbdabe;color:#000000;}
-.allHeight{min-height:calc(100%);}
-.allHeight-min{min-height:calc(100% - 140px);}
-.allHeight2{height:calc(100%);}
+.allHeight{min-height:calc(100vh);}
+.allHeight-min{min-height:calc(100vh - 140px);}
+.allHeight2{height:calc(100vh);}
 @media only screen and (min-width: 768px) {
     header{position: fixed;}
-    .allHeight,.allHeight-min{min-height:calc(100% - 70px);}
-    .allHeight2{height:calc(100% - 70px);}
+    .allHeight,.allHeight-min{min-height:calc(100vh - 70px);}
+    .allHeight2{height:calc(100vh - 70px);}
 }
 @media only screen and (max-width: 767px) {
     header > a{
